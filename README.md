@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-ValdemirValenceJr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valdemirvalancejr/)](https://www.linkedin.com/in/valdemirvalancejr/)
 
 ## Hello! 
-I'm **Valdemir Valence Jr**. i'm full stack developer, developer system, game developer, mobile developer and game developer, i are studying mechatronic engineer also, i make also UI Design for application.
+I'm **Valdemir Valence Jr**. i'm full stack developer, developer system and game developer, i make web, mobile and desktop application, i are studying mechatronic engineer also, i make also UI Design for application.
 
 Here are some ideas to get you started:
 
