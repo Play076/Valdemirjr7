@@ -1,3 +1,4 @@
+![ValdemirValanceJrLogo](https://github.com/Valdemirjr7/Valdemirjr7/blob/master/valdemir.png)
 # 
 [![LinkedIn Badge](https://img.shields.io/badge/-ValdemirValencaJr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valdemirvalancejr/)](https://www.linkedin.com/in/valdemirvalencajr/)
 [![Medium Badge](https://img.shields.io/badge/-ValdemirValencaJr-black?style=flat-square&logo=Medium&logoColor=white&link=https:https://medium.com/@valdemirjr7/)](https://medium.com/@valdemirjr7/)
